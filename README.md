@@ -1,4 +1,4 @@
-# AI-Assistant-for-GIGABYTE-AORUS-MASTER-16-AM6H
+# AI-Assistant-for-Laptops
 
 ## 📄 資料來源
 
